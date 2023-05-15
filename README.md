@@ -1,12 +1,54 @@
-# Advanced-Computer-Vision-with-Python 
-# This Respo contain many advanced project in Computer Vision :
+# Computer Vision with Python 
 
-**hand  tracking**
-> - this project contain implementation for  hand  tracking using opencv  and mediapip package
+## OpenCV  
 
-**pose estimation**
-> - this project contain implementation for pose estimation using opencv  and mediapip package
+### OpenCV Basic [link](opencv/01.%20Basic.ipynb)
 
-**volume hand control**
+- Reading Images and Video 
 
-> - this project contain implementation for  volume hand control  using opencv  and mediapip package
+- Resizing and Rescaling Images and Video Frames 
+
+-  Drawing Shapes and Placing text on images 
+
+- 5 Essential Methods in OpenCV
+
+- Image Transformations
+
+- Contour Detection
+
+
+
+
+### OpenCV Advanced [link](opencv/02.%200Advanced.ipynb)
+
+- Color Space  
+
+-  Color Channel 
+
+- Smoothing  
+
+- Bitwise Opreations 
+
+- Masking
+
+- Histogram Computation 
+
+- Thresholding/Binarizing Images
+
+- Edge Detection  
+
+
+
+### OpenCV Face Detection  [link](opencv/03.%20Faces%20Detection.ipynb)
+- Face Detection with  Haar Cascade Classifiers
+
+
+## MediaPipe Project 
+
+- **hand  tracking** [link](MediaPipe/hand%20tracking)
+
+
+- **pose estimation** [link](MediaPipe/pose%20estimation)
+
+
+- **volume hand control** [link](MediaPipe/volume%20hand%20control)
